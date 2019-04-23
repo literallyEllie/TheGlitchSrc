@@ -1,0 +1,1 @@
+# Contains all the source C# for The Glitch. https://communismahhh.itch.io/theglitch
